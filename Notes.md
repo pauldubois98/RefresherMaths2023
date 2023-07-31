@@ -14,3 +14,4 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - complex sets (with $\{ \}$)
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
 - Modular arithmetic
+  - with $k \in \Z$
