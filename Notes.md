@@ -26,7 +26,9 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - modular operations (+,-,\* $\mod n$)
 - Functions and Sequences
   - functions def
-  - example: $f: x \to x^2$, $g: x \to \sqrt{x}$, 
+  - example: 
+    $f: x \to x^2$,
+    $g: x \to \sqrt{x}$, 
   - typical plotting of functions: set of points $(x,y)$ s.t. $y = f(x)$
   - sequences def: general formula
   - example: $u_n = n^3-5n^2$
