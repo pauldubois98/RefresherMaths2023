@@ -16,6 +16,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - Modular arithmetic
   - with $k \in \Z$
   - with tables
+- Functions and Sequences
 - Essence of proofs
   - proof: assumption => conclusion
   - direct with $n \geq 0 \implies 2n \geq 4n$
