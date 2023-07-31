@@ -18,3 +18,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - with tables
 - Essence of proofs
   - proof: assumption => conclusion
+  - direct with $n \geq 0 \implies 2n \geq 4n$
+  - cases split with $n \equiv n^2 \mod 2$
+  - contradiction with $\sqrt{2} \not \in \Q$
+  - induction with $u_0 = 2, u_{n+1} = \frac{u_n+1}{2} \implies u_n>1$
