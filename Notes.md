@@ -8,3 +8,4 @@ $\newcommand{\Q}{\mathbb{Q}}$
 ## Course Content:
 
 - sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
+- complex sets (with $\{ \}$)
