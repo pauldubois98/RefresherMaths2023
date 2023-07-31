@@ -14,7 +14,8 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - complex sets (with $\{ \}$)
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
 - Modular arithmetic
-  - with $k \in \Z$
+  - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
+  - example with $a=35$, $b=2,3,4,5,6,7,8$
   - with tables
 - Functions and Sequences
   - functions def
