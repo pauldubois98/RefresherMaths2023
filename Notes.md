@@ -19,8 +19,10 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - Functions and Sequences
   - functions def
   - example: $f: x \to x^2$, $g: x \to \sqrt{x}$, 
-  - sequences def: general formula & recursive formula
+  - sequences def: general formula
   - example: $u_n = n^3-5n^2$
+  - sequences def: recursive formula
+  - example: $u_0 = 5, u_{n+1} = u_n^2-u_n+2$
 - Essence of proofs
   - proof: assumption => conclusion
   - direct with $n \geq 0 \implies 2n \geq 4n$
