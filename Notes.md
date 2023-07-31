@@ -11,7 +11,13 @@ $\newcommand{\Q}{\mathbb{Q}}$
 
 - Sets
   - sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
-  - complex sets (with $\{ \}$)
+  - complex sets (with $\{ \}$)&
+  - example:
+    $\{n \mid 4<n<10 \}$,
+    $\{2n-1 \mid 4<n<10 \}$,
+    $\{x \mid 4<x<10 \}$,
+    $\{x \mid 4<x^2<10 \}$,
+    $\{(x,y) \mid 0<x<2 , 1<y<3\}$, 
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
 - Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
