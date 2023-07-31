@@ -17,3 +17,4 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - with $k \in \Z$
   - with tables
 - Essence of proofs
+  - proof: assumption => conclusion
