@@ -16,7 +16,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
-  - modular classes ($12 \equiv 7 \equiv 22 \mod 5)
+  - modular classes ($12 \equiv 7 \equiv 22 \equiv 102 \equiv -3 \equiv -103 \mod 5$ i.e. $\{2+5k \mid k \in \Z \}$)
   - modular operations (+,-,\* $\mod n$)
 - Functions and Sequences
   - functions def
