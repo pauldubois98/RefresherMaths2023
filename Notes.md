@@ -6,3 +6,5 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - integer vs rational vs decimal
 
 ## Course Content:
+
+- sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
