@@ -3,5 +3,6 @@ $\newcommand{\Q}{\mathbb{Q}}$
 
 ### Assumed to be known
 - 4 operations (+,-,*,/)
+- integer vs rational vs decimal
 
 ## Course Content:
