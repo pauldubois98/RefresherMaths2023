@@ -15,3 +15,4 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
 - Modular arithmetic
   - with $k \in \Z$
+  - with tables
