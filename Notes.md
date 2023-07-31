@@ -21,6 +21,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - Functions and Sequences
   - functions def
   - example: $f: x \to x^2$, $g: x \to \sqrt{x}$, 
+  - typical plotting of functions: set of points $(x,y)$ s.t. $y = f(x)$
   - sequences def: general formula
   - example: $u_n = n^3-5n^2$
   - sequences def: recursive formula
