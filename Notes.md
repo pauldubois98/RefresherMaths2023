@@ -16,7 +16,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
-  - with tables
+  - modular classes ($12 \equiv 7 \equiv 22 \mod 5)
 - Functions and Sequences
   - functions def
   - example: $f: x \to x^2$, $g: x \to \sqrt{x}$, 
