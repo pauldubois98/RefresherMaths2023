@@ -17,6 +17,8 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - with $k \in \Z$
   - with tables
 - Functions and Sequences
+  - functions def
+  - example: $f: x \to x^2$, $g: x \to \sqrt{x}$, 
 - Essence of proofs
   - proof: assumption => conclusion
   - direct with $n \geq 0 \implies 2n \geq 4n$
