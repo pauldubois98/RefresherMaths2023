@@ -12,12 +12,12 @@ $\newcommand{\Q}{\mathbb{Q}}$
 - Sets
   - sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
   - complex sets (with $\{ \}$)
-  - example:
-    $\{n \mid 4<n<10 \}$,
-    $\{2n-1 \mid 4<n<10 \}$,
-    $\{x \mid 4<x<10 \}$,
-    $\{x \mid 4<x^2<10 \}$,
-    $\{(x,y) \mid 0<x<2 , 1<y<3\}$, 
+  - examples (draw them):
+    - $\{n \mid 4<n<10 \}$
+    - $\{2n-1 \mid 4<n<10 \}$
+    - $\{x \mid 4<x<10 \}$
+    - $\{x \mid 4<x^2<10 \}$
+    - $\{(x,y) \mid 0<x<2 , 1<y<3\}$
   - live exercises: draw set + define set from drawing
   - intervals ($\left[a,b\right]$)
   - live exercises: TODO
