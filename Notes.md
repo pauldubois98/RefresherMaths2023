@@ -1,5 +1,7 @@
 $\newcommand{\Q}{\mathbb{Q}}$
 $\newcommand{\st}{\text{ s.t. }}$
+$\newcommand{\and}{\text{ and }}$
+$\newcommand{\or}{\text{ or }}$
 
 # Math Refresher 2023
 
