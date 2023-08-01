@@ -35,6 +35,7 @@ $\newcommand{\st}{\text{ s.t. }}$
     - $S = \{5,6,3,1\}$ "all elements of $S$ are positive"
     - $S = \{5,6,3,1\}$ "there is an odd element in $S$"
     - $S = \{5,6,3,1\}$ "there is an even element in $S$ that is not a multiple of 4"
+  - implications $\implies$, $\impliedby$, $\iff$
     - "if $x$ is positive, then it is the square of another number"
     - "$n$ is pair is equivalent to $n=2m$ for some integer $m$"
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
