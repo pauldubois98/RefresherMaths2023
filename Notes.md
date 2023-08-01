@@ -20,6 +20,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
     $\{(x,y) \mid 0<x<2 , 1<y<3\}$, 
   - live exercises: draw set + define set from drawing
   - intervals ($\left[a,b\right]$)
+  - sets unions & intersections
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
 - Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
