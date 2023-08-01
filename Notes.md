@@ -28,6 +28,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
     - $\left[-2,5\right) \cap \Z$
   - live exercises: TODO
   - quantifiers: $\forall$, $\exists$
+  - example: "for any number, there is a (natural) number greater" ($\forall x \in \R, \exists n \in \N s.t. n>x$)
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
 - Modular arithmetic
