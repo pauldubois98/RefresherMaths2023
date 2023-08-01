@@ -1,4 +1,5 @@
 $\newcommand{\Q}{\mathbb{Q}}$
+$\newcommand{\st}{\text{ s.t. }}$
 
 # Math Refresher 2023
 
