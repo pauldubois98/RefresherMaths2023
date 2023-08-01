@@ -31,6 +31,7 @@ $\newcommand{\st}{\text{ s.t. }}$
   - quantifiers: $\forall$, $\exists$
   - exmaple (simple): $S = \{1,3,5,7,8\}$ then $\forall s \in S, \st \leq 10$ and $\exists s \in \S \st s \text{ is pair}$
   - example (combined): "for any number, there is a (natural) number greater" ($\forall x \in \R, \exists n \in \N s.t. n>x$)
+  - live exercises: TODO
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
 - Modular arithmetic
