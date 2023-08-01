@@ -41,7 +41,7 @@ $\newcommand{\or}{\text{ or }}$
   - examples:
     - $x>1 \implies x \text{positive}$
     - $k \in \Z \impliedby k \in \N$
-    - $k \in \Z  \text{ and } k\geq 0 \iff k \in \N$
+    - $k \in \Z  \and k\geq 0 \iff k \in \N$
   - live exercises:
     - "if $x$ is positive, then it is the square of another number"
     - "$n$ is pair is equivalent to $n=2m$ for some integer $m$"
