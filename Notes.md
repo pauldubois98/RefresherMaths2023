@@ -27,6 +27,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
     - $\left[-2,5\right) \cap \N$
     - $\left[-2,5\right) \cap \Z$
   - live exercises: TODO
+  - quantifiers: $\forall$, $\exists$
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
 - Modular arithmetic
