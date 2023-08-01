@@ -29,8 +29,8 @@ $\newcommand{\st}{\text{ s.t. }}$
     - $\left[-2,5\right) \cap \Z$
   - live exercises: TODO
   - quantifiers: $\forall$, $\exists$
-  - exmaple: $S = \{1,3,5,7,8\}$ then $\forall s \in S, \st \leq 10$ and $\exists s \in \S \st s \text{ is pair}$
-  - example: "for any number, there is a (natural) number greater" ($\forall x \in \R, \exists n \in \N s.t. n>x$)
+  - exmaple (simple): $S = \{1,3,5,7,8\}$ then $\forall s \in S, \st \leq 10$ and $\exists s \in \S \st s \text{ is pair}$
+  - example (combined): "for any number, there is a (natural) number greater" ($\forall x \in \R, \exists n \in \N s.t. n>x$)
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
 - Modular arithmetic
