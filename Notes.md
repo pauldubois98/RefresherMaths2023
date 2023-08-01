@@ -21,6 +21,11 @@ $\newcommand{\Q}{\mathbb{Q}}$
   - live exercises: draw set + define set from drawing
   - intervals ($\left[a,b\right]$ & $\left(a,b\right)$); example: $\left[-2, 3\right)$
   - sets unions & intersections
+  - examples:
+    - $\left[0,1\right) \cup \left(2,3\right]$
+    - $\left(0,1\right) \cap \left[0.5,2\right]$
+    - $\left[-2,5\right) \cap \N$
+    - $\left[-2,5\right) \cap \Z$
   - live exercises: TODO
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
