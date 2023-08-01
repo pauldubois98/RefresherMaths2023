@@ -11,7 +11,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
 
 - Sets
   - sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
-  - complex sets (with $\{ \}$)&
+  - complex sets (with $\{ \}$)
   - example:
     $\{n \mid 4<n<10 \}$,
     $\{2n-1 \mid 4<n<10 \}$,
