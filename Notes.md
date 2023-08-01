@@ -31,7 +31,9 @@ $\newcommand{\or}{\text{ or }}$
     - $\left[-2,5\right) \cap \Z$
   - live exercises: TODO
   - quantifiers: $\forall$, $\exists$
-  - exmaple (simple): $S = \{1,3,5,7,8\}$ then $\forall s \in S, \st \leq 10$ and $\exists s \in \S \st s \text{ is pair}$
+  - exmaple (simple):
+    - $S = \{1,3,5,7,8\}$: $\forall s \in S, \st \leq 10$
+    - $S = \{1,3,5,7,8\}$: $\exists s \in \S \st s \text{ is pair}$
   - example (combined): "for any number, there is a (natural) number greater" ($\forall x \in \R, \exists n \in \N s.t. n>x$)
   - live exercises: 
     - $S = \{5,6,3,1\}$ "all elements of $S$ are positive"
