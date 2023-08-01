@@ -19,8 +19,7 @@ $\newcommand{\Q}{\mathbb{Q}}$
     - $\{x \mid 4<x^2<10 \}$
     - $\{(x,y) \mid 0<x<2 , 1<y<3\}$
   - live exercises: draw set + define set from drawing
-  - intervals ($\left[a,b\right]$)
-  - live exercises: TODO
+  - intervals ($\left[a,b\right]$ & $\left(a,b\right)$); example: $\left[-2, 3\right)$
   - sets unions & intersections
   - live exercises: TODO
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
