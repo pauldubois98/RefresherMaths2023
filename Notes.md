@@ -16,11 +16,11 @@ $\newcommand{\or}{\text{ or }}$
   - sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
   - complex sets (with $\{ \}$)
   - examples (draw them):
-    - $\{n \mid 4<n<10 \}$
-    - $\{2n-1 \mid 4<n<10 \}$
-    - $\{x \mid 4<x<10 \}$
+    - $\{n \mid 4<n<10, n \in \N \}$
+    - $\{2n-1 \mid 4<n<10 , n \in \N \}$
+    - $\{x \mid 4<x<10, x \in \R \}$
     - $\{x \mid 4<x^2<10 \}$
-    - $\{(x,y) \mid 0<x<2 , 1<y<3\}$
+    - $\{(x,y) \mid 0<x<2 , 1<y<3, x \in \R, y \in \R \}$
   - live exercises: draw set + define set from drawing
   - intervals ($\left[a,b\right]$ & $\left(a,b\right)$); example: $\left[-2, 3\right)$
   - sets unions & intersections
