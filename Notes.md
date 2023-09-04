@@ -1,4 +1,5 @@
 $\newcommand{\Q}{\mathbb{Q}}$
+$\newcommand{\Primes}{\mathbb{P}}$
 $\newcommand{\st}{\text{ s.t. }}$
 $\newcommand{\and}{\text{ and }}$
 $\newcommand{\or}{\text{ or }}$
@@ -9,11 +10,12 @@ $\newcommand{\or}{\text{ or }}$
 
 - 4 operations (+,-,\*,/)
 - integer vs rational vs decimal
+- what is a prime number
 
 ## Course Content:
 
 - Sets
-  - sets of numbers ($\N$, $\Z$, $\R$, $\Q$)
+  - sets of numbers ($\N$, $\Z$, $\R$, $\Q$, $\Primes$)
   - complex sets (with $\{ \}$)
   - examples (draw them):
     - $\{n \mid 4<n<10, n \in \N \}$
