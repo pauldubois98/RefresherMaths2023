@@ -78,3 +78,9 @@ $\newcommand{\or}{\text{ or }}$
   - live exercises: TODO
 - Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
+  - Examples:
+    - "product of numbers from 10 to 20"
+    - "sum of squares up to 10"
+    - $\bigcup_{x \in \{1,4,10.5, 21.75\}} \left[ x-0.5, x+0.5 \right]$
+    - $\bigcap_{n \in \N^*} \left[ -\frac{1}{n}, \frac{1}{n} \right]$
+  
