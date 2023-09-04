@@ -78,9 +78,15 @@ $\newcommand{\or}{\text{ or }}$
   - live exercises: TODO
 - Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
-  - Examples:
+  - examples:
     - "product of numbers from 10 to 20"
     - "sum of squares up to 10"
     - $\bigcup_{x \in \{1,4,10.5, 21.75\}} \left[ x-0.5, x+0.5 \right]$
     - $\bigcap_{n \in \N^*} \left[ -\frac{1}{n}, \frac{1}{n} \right]$
+  - live exercises:
+    - what set does the last example corresponds to?
+    - define the factorial
+    - give an expression for the sum of inverses from $1$ to $1000$
+    - give an expression for the product of all prime numbers smaller than $10000$
+    - give an expression for the sum of factorials from $100$ to $200$
   
