@@ -63,10 +63,13 @@ $\newcommand{\or}{\text{ or }}$
     - find the least positive value of $x$ such that $71 \equiv x \mod 8$
   - modular operations (+,-,\* $\mod n$)
   - GCD and $\square^{-1} \mod n$
+  - example:
+    - compute the GCD of $270$ and $192$ (answer: $6$)
+    - compute $5^{-1} \mod 11$
   - live exercises:
     - find the least positive value of $x$ such that $89 \equiv (x + 3) \mod 4$
-    - find an $x$ such that $5x \equiv 4 \mod 11$
     - what is $x \mod 10$ if $96 \equiv x / 7 \mod 5$
+    - find an $x$ such that $5x \equiv 4 \mod 11$
     - if $x$ is congruent to $13 \mod 17$ then $7x - 3$ is congruent to which number $\mod 17$?
 - Functions and Sequences
   - functions def
