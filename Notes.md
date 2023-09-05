@@ -55,7 +55,11 @@ $\newcommand{\or}{\text{ or }}$
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
   - modular classes ($12 \equiv 7 \equiv 22 \equiv 102 \equiv -3 \equiv -103 \mod 5$ i.e. $\{2+5k \mid k \in \Z \}$)
-  - live exercises: TODO
+  - live exercises:
+    - give 3 numbers that are congruent to 3 mod 7
+    - give a test in terms of modular arithmetic that is equivalent to "$n$ is odd"
+    - give a test in terms of modular arithmetic that is equivalent to "$n$ is a nultiple of $k$" (for $k$ a natural number greater than two)
+    - what does it mean for $n$ to say that $n \equiv 5 \mod 10$?
   - modular operations (+,-,\* $\mod n$)
   - live exercises: TODO
 - Functions and Sequences
