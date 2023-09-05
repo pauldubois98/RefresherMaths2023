@@ -61,7 +61,8 @@ $\newcommand{\or}{\text{ or }}$
     - give a test in terms of modular arithmetic that is equivalent to "$n$ is a nultiple of $k$" (for $k$ a natural number greater than two)
     - what does it mean for $n$ to say that $n \equiv 5 \mod 10$?
     - find the least positive value of $x$ such that $71 \equiv x \mod 8$
-  - modular operations (+,-,\*,$\square^{-1}$ $\mod n$)
+  - modular operations (+,-,\* $\mod n$)
+  - GCD and $\square^{-1} \mod n$
   - live exercises:
     - find the least positive value of $x$ such that $89 \equiv (x + 3) \mod 4$
     - find an $x$ such that $5x \equiv 4 \mod 11$
