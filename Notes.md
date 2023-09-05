@@ -60,7 +60,7 @@ $\newcommand{\or}{\text{ or }}$
     - give a test in terms of modular arithmetic that is equivalent to "$n$ is odd"
     - give a test in terms of modular arithmetic that is equivalent to "$n$ is a nultiple of $k$" (for $k$ a natural number greater than two)
     - what does it mean for $n$ to say that $n \equiv 5 \mod 10$?
-  - modular operations (+,-,\* $\mod n$)
+  - modular operations (+,-,\*,$\square^{-1}$ $\mod n$)
   - live exercises: TODO
 - Functions and Sequences
   - functions def
