@@ -62,7 +62,11 @@ $\newcommand{\or}{\text{ or }}$
     - what does it mean for $n$ to say that $n \equiv 5 \mod 10$?
     - find the least positive value of $x$ such that $71 \equiv x \mod 8$
   - modular operations (+,-,\*,$\square^{-1}$ $\mod n$)
-  - live exercises: TODO
+  - live exercises:
+    - find the least positive value of x such that $89 \equiv (x + 3) \mod 4$
+    - find the least positive value of x such that $96 \equiv x / 7 \mod 5$
+    - find the least positive value of x such that $5x \equiv 4 \mod 6$
+    - if $x$ is congruent to $13 \mod 17$ then $7x - 3$ is congruent to which number $\mod 17$?
 - Functions and Sequences
   - functions def
   - example: 
