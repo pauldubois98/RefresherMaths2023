@@ -110,4 +110,5 @@ $\newcommand{\or}{\text{ or }}$
 TODO:
 - Graph of functions
 - Affine functions
+- Quadratic equations
 -
