@@ -108,4 +108,5 @@ $\newcommand{\or}{\text{ or }}$
 
 
 TODO:
-- 
+- Graph of functions
+-
