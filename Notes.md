@@ -73,6 +73,7 @@ $\newcommand{\or}{\text{ or }}$
     - if $x$ is congruent to $13 \mod 17$ then $7x - 3$ is congruent to which number $\mod 17$?
 - Functions and Sequences
   - functions def
+  - span vs kernel
   - example: 
     $f: x \to x^2$,
     $g: x \to \sqrt{x}$, 
