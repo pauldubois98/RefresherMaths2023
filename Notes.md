@@ -108,6 +108,7 @@ $\newcommand{\or}{\text{ or }}$
 
 TODO:
 - Graph of functions
+- Complex numbers
 - Affine functions
 - Quadratic equations
 - Vectors (concept, sum, scalar product)
