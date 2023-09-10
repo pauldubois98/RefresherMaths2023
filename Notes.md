@@ -6,15 +6,13 @@ $\newcommand{\or}{\text{ or }}$
 
 # Math Refresher 2023
 
-### Assumed to be known
+## Assumed to be known
 
 - 4 operations (+,-,\*,/)
 - integer vs rational vs decimal
 - what is a prime number
 
-## Course Content:
-
-- Sets
+## Sets
   - sets of numbers ($\N$, $\Z$, $\R$, $\Q$, $\Primes$)
   - complex sets (with $\{ \}$)
   - examples (draw them):
@@ -51,7 +49,7 @@ $\newcommand{\or}{\text{ or }}$
     - "$n$ is pair is equivalent to $n=2m$ for some integer $m$"
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
-- Modular arithmetic
+## Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
   - modular classes ($12 \equiv 7 \equiv 22 \equiv 102 \equiv -3 \equiv -103 \mod 5$ i.e. $\{2+5k \mid k \in \Z \}$)
@@ -71,7 +69,7 @@ $\newcommand{\or}{\text{ or }}$
     - what is $x \mod 10$ if $96 \equiv x / 7 \mod 5$
     - find an $x$ such that $5x \equiv 4 \mod 11$
     - if $x$ is congruent to $13 \mod 17$ then $7x - 3$ is congruent to which number $\mod 17$?
-- Functions and Sequences
+## Functions
   - functions def
   - span vs kernel
   - example: 
@@ -79,6 +77,7 @@ $\newcommand{\or}{\text{ or }}$
     $g: x \to \sqrt{x}$, 
   - live exercises: TODO
   - typical plotting of functions: set of points $(x,y)$ s.t. $y = f(x)$
+## Sequences
   - sequences def: general formula
   - example: $u_n = n^3-5n^2$
   - live exercises: TODO
@@ -92,7 +91,7 @@ $\newcommand{\or}{\text{ or }}$
   - contradiction with $\sqrt{2} \not \in \Q$
   - induction with $u_0 = 2, u_{n+1} = \frac{u_n+1}{2} \implies u_n>1$
   - live exercises: TODO
-- Large operators
+## Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
   - examples:
     - "product of numbers from 10 to 20"
