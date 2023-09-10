@@ -49,7 +49,8 @@ $\newcommand{\or}{\text{ or }}$
     - "$n$ is pair is equivalent to $n=2m$ for some integer $m$"
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
-  - Boolean Algebra? TODO
+## Boolean Algebra
+  - TODO
 ## Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
@@ -85,7 +86,7 @@ $\newcommand{\or}{\text{ or }}$
   - sequences def: recursive formula
   - example: $u_0 = 5, u_{n+1} = u_n^2-u_n+2$
   - live exercises: TODO
-- Essence of proofs
+## Essence of proofs
   - proof: assumption => conclusion
   - direct with $n \geq 0 \implies 2n \geq 4n$
   - cases split with $n \equiv n^2 \mod 2$
