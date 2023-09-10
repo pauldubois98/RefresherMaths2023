@@ -111,4 +111,5 @@ TODO:
 - Graph of functions
 - Affine functions
 - Quadratic equations
+- Vectors (concept, sum, scalar product)
 -
