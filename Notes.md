@@ -92,6 +92,10 @@ $\newcommand{\or}{\text{ or }}$
   - contradiction with $\sqrt{2} \not \in \Q$
   - induction with $u_0 = 2, u_{n+1} = \frac{u_n+1}{2} \implies u_n>1$
   - live exercises: TODO
+## Asymptotic analysis
+  - definition
+  - examples: TODO
+  - live exercises: TODO
 ## Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
   - examples:
