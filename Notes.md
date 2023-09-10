@@ -112,4 +112,5 @@ TODO:
 - Affine functions
 - Quadratic equations
 - Vectors (concept, sum, scalar product)
+- Equations for lines (2D, 3D) and planes (3D)
 -
