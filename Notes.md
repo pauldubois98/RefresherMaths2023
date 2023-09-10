@@ -117,5 +117,6 @@ TODO:
 - Integration
 - Matrices (concept, sul, product)
 - Mutli-dimensional functions
+- Inversing matrices
 - Linear regression
 -
