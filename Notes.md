@@ -104,6 +104,8 @@ $\newcommand{\or}{\text{ or }}$
     - give an expression for the sum of inverses from $1$ to $1000$
     - give an expression for the product of all prime numbers smaller than $10000$
     - give an expression for the sum of factorials from $100$ to $200$
+  - Series: TODO
+  - Partial sums: TODO
 
 
 TODO:
