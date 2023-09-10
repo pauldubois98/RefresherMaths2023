@@ -115,8 +115,8 @@ TODO:
 - Equations for lines (2D, 3D) and planes (3D)
 - Derivatives
 - Integration
-- Matrices (concept, sul, product)
+- Matrices (concept, sum, product)
 - Mutli-dimensional functions
-- Inversing matrices
+- Inversing matrices (+ row reduction; span)
 - Linear regression
 -
