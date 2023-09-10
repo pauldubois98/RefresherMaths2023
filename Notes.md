@@ -116,4 +116,5 @@ TODO:
 - Derivatives
 - Integration
 - Matrices (concept, sul, product)
+- Linear regression
 -
