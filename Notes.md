@@ -115,4 +115,5 @@ TODO:
 - Equations for lines (2D, 3D) and planes (3D)
 - Derivatives
 - Integration
+- Matrices (concept, sul, product)
 -
