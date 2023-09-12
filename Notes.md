@@ -20,7 +20,13 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - 8*3h arranged as 1h20min lecture - 1/3h break - 1h20min lecture
   - No pb class planned, but lectures will have integrated live exercises
   - Interrupt if needed (do *not* wait for the end of the lecture)
-
+- Examination
+  - The course is pass/fail
+  - Spoiler: All of you will pass
+  - Home exercises, you will need 80+% to pass
+  - How long do you need to complete exercises (should take 30min to 1h)?
+  - How many exercises do you want? (2-4?)
+  - In the unlikely event of not passing, you will be able to do some extra work to pass
 
 ## Assumed to be known
 
