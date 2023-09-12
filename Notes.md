@@ -186,7 +186,12 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - $S_n = \sum_{k=0}^n k^2$
     - $S_n = \sum_{k=0}^n \frac{1}{k!}$
     - $S_n = \sum_{k=0}^n \frac{1}{2^k}$
-
+  - convergence: if the sequence of partial sums converges
+  - convergence tests:
+    - comparison test
+    - integral test
+    - ratio test
+    - root test
 
 
 TODO:
