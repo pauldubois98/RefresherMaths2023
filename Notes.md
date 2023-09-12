@@ -158,8 +158,13 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - prove that $u_n = 2n^3$ diverges to $+\infty$ as $n \to +\infty$
     - prove that limit of $f(x) = \frac{1}{x^2}$ as $x \to 0$ is $+\infty$
     - prove that limit of $f(x) = \frac{1}{x}$ as $x \to 0^-$ is $-\infty$
-  - operations on limits
-  - live exercises: TODO
+  - operations on limits ($+$, $-$, $*$, and $/$)
+  - live exercises:
+    - calculate $\lim_{n\to \infty} \left(2+\frac{-1}{2n}\right)\left(3-\frac{4}{-n^2}\right)+5$
+    - calculate $\lim_{n\to \infty} \frac{-2n+1}{8n}$
+    - calculate $\lim_{x\to \infty} \frac{3x^2 + 2x}{4x^2 - 1}$
+    - determine the behaviour of $u_n = (-2)^n$ as $n \to +\infty$
+
 ## Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
   - examples:
