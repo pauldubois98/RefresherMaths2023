@@ -54,8 +54,8 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - $\left[-2,5\right) \cap \N$
     - $\left[-2,5\right) \cap \Z$
   - live exercises:
-    - Compute and plot the inersection and union of $A = \left(1, 5\right)$ and $B = \left(3, 7\right]$.
-    - Compute and plot the inersection and union of $C = \left(-\infty, 2\right]$ and $D = \left[0, +\infty \right)$.
+    - compute and plot the inersection and union of $A = \left(1, 5\right)$ and $B = \left(3, 7\right]$.
+    - compute and plot the inersection and union of $C = \left(-\infty, 2\right]$ and $D = \left[0, +\infty \right)$.
   - quantifiers: $\forall$, $\exists$
   - exmaple (simple):
     - $S = \{1,3,5,7,8\}$: $\forall s \in S, \st \leq 10$
@@ -117,7 +117,11 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - $f: x \to 3x+1$
     - $g: x \to x^2-1$
     - $h: x \to 8$
-  - live exercises: TODO
+  - live exercises:
+    - compute the image of $2$ by $f(x) = \frac{(x+1)^2 - x}{x-3}$
+    - compute the preimage(s) of $5$ by $f(x) = 2x-3$
+    - compute the kernel of $f(x) = -3x+2$
+    - compute the span of $f(x) = 5-(2x)^4$
   - typical plotting of functions: set of points $(x,y)$ s.t. $y = f(x)$
 ## Sequences
   - sequences def: general formula
