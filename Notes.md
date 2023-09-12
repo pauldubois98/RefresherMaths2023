@@ -6,6 +6,10 @@ $\newcommand{\or}{\text{ or }}$
 
 # Math Refresher 2023
 
+This course teaches basic mathematical metho dologies for proofs.
+It is intended for students with a lack of mathematical background, or with a lack of confidence in mathematics.
+We will try to cover most of the prerequisites of the courses in the master's, i.e. basic algebra/analysis and basic applications.
+
 ## Assumed to be known
 
 - 4 operations (+,-,\*,/)
