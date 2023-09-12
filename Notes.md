@@ -3,6 +3,7 @@ $\newcommand{\Primes}{\mathbb{P}}$
 $\newcommand{\st}{\text{ s.t. }}$
 $\newcommand{\and}{\text{ and }}$
 $\newcommand{\or}{\text{ or }}$
+$\newcommand{\lxor}{\veebar}$
 
 # Math Refresher 2023
 
@@ -84,9 +85,9 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - $not$ ($\lnot$)
   - tables
   - De Morgan's law ($\lnot (a \land b) = \lnot a \lor \lnot b$ and $\lnot (a \lor b) = \lnot a \land \lnot b$)
-  - implications operators ($\implies, \impliedby, \iff$) & xor operator ($\veebar$)
+  - $implications$ operators ($\implies, \impliedby, \iff$); $\text{x}or$ operator ($\lxor$)
   - live exercise:
-    - express $xor$ in terms of $\lor, \land, \lnot$
+    - express $\lxor$ in terms of $\lor, \land, \lnot$
     - express $\implies$ in terms of $\lor, \land, \lnot$
     - express $\land$ in terms of $\lor, \lnot$
     - express $\lor$ in terms of $\land, \lnot$
