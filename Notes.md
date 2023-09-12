@@ -143,7 +143,11 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - cases split with $n \equiv n^2 \mod 2$
   - contradiction with $\sqrt{2} \not \in \Q$
   - induction with $u_0 = 2, u_{n+1} = \frac{u_n+1}{2} \implies u_n>1$
-  - live exercises: TODO
+  - live exercises:
+    - prove that for all real numbers $x$, if $x$ is positive, then $x^3$ is also positive
+    - prove that the square root of 3 is irrational, i.e., it cannot be expressed as a fraction of two integers.
+    - prove by mathematical induction that for all non-negative integers $n$, $3^n - 1$ is divisible by $2$.
+    - use mathematical induction to prove that for all positive integers $n$, the sum of the first $n$ odd integers is given by the formula: $1 + 3 + 5 + ... + (2n - 1)$ is $n^2$.
 ## Asymptotic analysis
   - definition
   - examples: TODO
