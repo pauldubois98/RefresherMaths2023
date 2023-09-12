@@ -133,6 +133,10 @@ We will try to cover most of the prerequisites of the courses in the master's, i
       - find the first five terms of the sequence
       - find the common difference between consecutive terms
       - find a formula for $a_n$ (without using $a_{n-1}$)
+    - consider the (geometric) sequence $\{b_n\}$ defined by $b_n=3*2^n$
+      - find the first five terms of the sequence
+      - find the common ratio between consecutive terms
+      - find a formula for $b_{n+1}$ (using only $b_n$, no $n$)
 ## Essence of proofs
   - proof: assumption => conclusion
   - direct with $n \geq 0 \implies 2n \geq 4n$
