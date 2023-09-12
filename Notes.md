@@ -193,9 +193,17 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - convergence: if the sequence of partial sums converges
   - convergence tests:
     - comparison test
-    - integral test
+    - integral test (see later)
     - ratio test
     - root test
+    - alternating series test
+  - live exercises:
+    - prove that the series $\sum_{k \in \N} \frac{1}{k}-\frac{1}{k+1}$ converges
+    - prove that the series $\sum_{k \in \N} \frac{1}{k!}$ converges
+    - prove that the series $\sum_{k \in \N} \frac{1}{2^k}$ converges
+    - prove that the series $\sum_{k \in \N} \frac{1}{k}$ diverges
+    - prove that the series $\sum_{k \in \N} \frac{1}{k^2}$ converges
+    - prove that the series $\sum_{k \in \N} \frac{k^10}{2^k}$ converges
 
 
 TODO:
