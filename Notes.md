@@ -72,7 +72,9 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - "if $x$ is positive, then it is the square of another number"
     - "$n$ is pair is equivalent to $n=2m$ for some integer $m$"
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
-  - live exercises: TODO
+  - live exercises:
+    - find the extreme values of the set $A = \{x \in \R \mid x>0\}$.
+    - find the extreme values of the set $B = \{1-\frac{1}{n} \mid n\in \N\}$.
 ## Boolean Algebra
   - principle (only $0$ and $1$)
   - $+$ and $*$ for booleans: $\lor$ and $\land$
