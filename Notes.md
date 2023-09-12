@@ -1,8 +1,8 @@
 $\newcommand{\Q}{\mathbb{Q}}$
 $\newcommand{\Primes}{\mathbb{P}}$
 $\newcommand{\st}{\text{ s.t. }}$
-$\newcommand{\and}{\text{ and }}$
-$\newcommand{\or}{\text{ or }}$
+$\newcommand{\txtand}{\text{ and }}$
+$\newcommand{\txtor}{\text{ or }}$
 $\newcommand{\lxor}{\veebar}$
 
 # Math Refresher 2023
@@ -72,7 +72,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - examples:
     - $x>1 \implies x \text{positive}$
     - $k \in \Z \impliedby k \in \N$
-    - $k \in \Z  \and k\geq 0 \iff k \in \N$
+    - $k \in \Z  \txtand k\geq 0 \iff k \in \N$
   - live exercises:
     - "if $x$ is positive, then it is the square of another number"
     - "$n$ is pair is equivalent to $n=2m$ for some integer $m$"
