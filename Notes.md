@@ -97,10 +97,12 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - if $x$ is congruent to $13 \mod 17$ then $7x - 3$ is congruent to which number $\mod 17$?
 ## Functions
   - functions def
+  - image vs pre-image
   - span vs kernel
-  - example: 
-    $f: x \to x^2$,
-    $g: x \to \sqrt{x}$, 
+  - examples:
+    - $f: x \to 3x+1$
+    - $g: x \to x^2-1$
+    - $h: x \to 8$
   - live exercises: TODO
   - typical plotting of functions: set of points $(x,y)$ s.t. $y = f(x)$
 ## Sequences
