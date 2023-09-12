@@ -10,6 +10,14 @@ This course teaches basic mathematical metho dologies for proofs.
 It is intended for students with a lack of mathematical background, or with a lack of confidence in mathematics.
 We will try to cover most of the prerequisites of the courses in the master's, i.e. basic algebra/analysis and basic applications.
 
+## Presentation
+
+- Paul Dubois
+- 3rd year PhD @ Centrale / TheraPanacea
+- Research topic: AI applied to radiotherapy
+- Email: b00795695@essec.edu (for any question)
+
+
 ## Assumed to be known
 
 - 4 operations (+,-,\*,/)
