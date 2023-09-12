@@ -27,6 +27,8 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - How long do you need to complete exercises (should take 30min to 1h)?
   - How many exercises do you want? (2-4?)
   - In the unlikely event of not passing, you will be able to do some extra work to pass
+- Course notes are still under construction (as I will adjust according to the speed of the class); I will give it to you at the end of the course.
+- Final questions before we start?
 
 ## Assumed to be known
 
