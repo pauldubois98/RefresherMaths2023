@@ -151,6 +151,13 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - use mathematical induction to prove that for all positive integers $n$, the sum of the first $n$ odd integers is given by the formula: $1 + 3 + 5 + ... + (2n - 1)$ is $n^2$.
 ## Asymptotic analysis
   - definition ($\varepsilon, \delta$)
+  - examples / live exercises:
+    - prove that limit of $u_n = \frac{n^2+1}{n^2}$ as $n \to +\infty$ is $1$
+    - prove that limit of $f(x) = \frac{2x-1}{x}$ as $x \to -\infty$ is $2$
+    - prove that limit of $u_n = \frac{1}{\sqrt{n}}$ as $n \to +\infty$ is $0$
+    - prove that $u_n = 2n^3$ diverges to $+\infty$ as $n \to +\infty$
+    - prove that limit of $f(x) = \frac{1}{x^2}$ as $x \to 0$ is $+\infty$
+    - prove that limit of $f(x) = \frac{1}{x}$ as $x \to 0^-$ is $-\infty$
   - live exercises: TODO
 ## Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
