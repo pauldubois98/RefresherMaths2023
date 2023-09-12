@@ -16,6 +16,10 @@ We will try to cover most of the prerequisites of the courses in the master's, i
 - 3rd year PhD @ Centrale / TheraPanacea
 - Research topic: AI applied to radiotherapy
 - Email: b00795695@essec.edu (for any question)
+- Course structure
+  - 8*3h arranged as 1h20min lecture - 1/3h break - 1h20min lecture
+  - No pb class planned, but lectures will have integrated live exercises
+  - Interrupt if needed (do *not* wait for the end of the lecture)
 
 
 ## Assumed to be known
