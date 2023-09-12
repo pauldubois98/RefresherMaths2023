@@ -218,10 +218,13 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - live exercises:
     - find the equation of the line parallel to $y=2x+1$ that passes through $(5,3)$
     - find the equation of the line orthogonal to $y=2x+1$ that passes through $(8,7)$
+## Quadratic equations
+  - definition: $f(x) = ax^2+bx+c$ ($a$ is the quadratic coefficient, $b$ is the linear coefficient, $c$ is the constant)
+  - examples:
+    - $f(x) = x^2+2x+3$
+
 
 TODO:
-- 
-- Quadratic equations
 - Graph of usual functions
 - Complex numbers
 - Vectors (concept, sum, scalar product)
