@@ -37,6 +37,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
 - 4 operations (+,-,\*,/)
 - integer vs rational vs decimal
 - what is a prime number
+- basic (linear) equations solving
 
 ## Sets
   - sets of numbers ($\N$, $\Z$, $\R$, $\Q$, $\Primes$)
