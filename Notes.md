@@ -150,8 +150,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - prove by mathematical induction that for all non-negative integers $n$, $3^n - 1$ is divisible by $2$.
     - use mathematical induction to prove that for all positive integers $n$, the sum of the first $n$ odd integers is given by the formula: $1 + 3 + 5 + ... + (2n - 1)$ is $n^2$.
 ## Asymptotic analysis
-  - definition
-  - examples: TODO
+  - definition ($\varepsilon, \delta$)
   - live exercises: TODO
 ## Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
