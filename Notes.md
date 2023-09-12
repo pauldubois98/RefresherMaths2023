@@ -210,6 +210,11 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - $f(x) = 2x+1$
     - $f(x) = -3x+2$
     - $f(x) = 5$
+  - live exercises:
+    - plot the function $f(x) = 2x+1$
+    - plot the function $f(x) = -3x+2$
+    - find the affine function that passes through the points $(1,2)$ and $(3,4)$
+
 
 TODO:
 - 
