@@ -179,8 +179,14 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - give an expression for the sum of inverses from $1$ to $1000$
     - give an expression for the product of all prime numbers smaller than $10000$
     - give an expression for the sum of factorials from $100$ to $200$
-  - Series: TODO
-  - Partial sums: TODO
+## Series
+  - definition: sum of a sequence
+  - partial sums: $S_n = \sum_{k=0}^n u_k$
+  - examples:
+    - $S_n = \sum_{k=0}^n k^2$
+    - $S_n = \sum_{k=0}^n \frac{1}{k!}$
+    - $S_n = \sum_{k=0}^n \frac{1}{2^k}$
+
 
 
 TODO:
