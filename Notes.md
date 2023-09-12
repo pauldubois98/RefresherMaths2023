@@ -74,7 +74,9 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - extreme values ($\min$,$\max$ vs $\sup$,$\inf$)
   - live exercises: TODO
 ## Boolean Algebra
-  - TODO
+  - principle (only $0$ and $1$)
+  - $+$ and $*$ for booleans: $\lor$ and $\land$
+  - $not$ ($\lnot$)
 ## Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
