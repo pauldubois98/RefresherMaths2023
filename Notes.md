@@ -53,7 +53,9 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - $\left(0,1\right) \cap \left[0.5,2\right]$
     - $\left[-2,5\right) \cap \N$
     - $\left[-2,5\right) \cap \Z$
-  - live exercises: TODO
+  - live exercises:
+    - Compute and plot the inersection and union of $A = \left(1, 5\right)$ and $B = \left(3, 7\right]$.
+    - Compute and plot the inersection and union of $C = \left(-\infty, 2\right]$ and $D = \left[0, +\infty \right)$.
   - quantifiers: $\forall$, $\exists$
   - exmaple (simple):
     - $S = \{1,3,5,7,8\}$: $\forall s \in S, \st \leq 10$
