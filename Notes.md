@@ -204,10 +204,15 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - prove that the series $\sum_{k \in \N} \frac{1}{k}$ diverges
     - prove that the series $\sum_{k \in \N} \frac{1}{k^2}$ converges
     - prove that the series $\sum_{k \in \N} \frac{k^10}{2^k}$ converges
-
+## Affine functions
+  - definition: $f(x) = ax+b$ ($a$ is the slope, $b$ is the intercept)
+  - examples:
+    - $f(x) = 2x+1$
+    - $f(x) = -3x+2$
+    - $f(x) = 5$
 
 TODO:
-- Affine functions
+- 
 - Quadratic equations
 - Graph of usual functions
 - Complex numbers
