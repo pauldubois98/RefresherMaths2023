@@ -158,6 +158,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - prove that $u_n = 2n^3$ diverges to $+\infty$ as $n \to +\infty$
     - prove that limit of $f(x) = \frac{1}{x^2}$ as $x \to 0$ is $+\infty$
     - prove that limit of $f(x) = \frac{1}{x}$ as $x \to 0^-$ is $-\infty$
+  - operations on limits
   - live exercises: TODO
 ## Large operators
   - $\sum$, $\prod$, $\bigcup$, $\bigcap$
