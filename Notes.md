@@ -214,6 +214,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
     - plot the function $f(x) = 2x+1$
     - plot the function $f(x) = -3x+2$
     - find the affine function that passes through the points $(1,2)$ and $(3,4)$
+  - parallel (same slope) and orthogonal lines (negative reciprocal slope)
 
 
 TODO:
