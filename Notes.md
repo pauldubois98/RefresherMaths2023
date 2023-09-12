@@ -77,6 +77,8 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - principle (only $0$ and $1$)
   - $+$ and $*$ for booleans: $\lor$ and $\land$
   - $not$ ($\lnot$)
+  - tables
+  - De Morgan's law ($\lnot (a \land b) = \lnot a \lor \lnot b$ and $\lnot (a \lor b) = \lnot a \land \lnot b$)
 ## Modular arithmetic
   - Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
   - example with $a=35$, $b=2,3,4,5,6,7,8$
