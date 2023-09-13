@@ -59,14 +59,14 @@
 	\textbf{This technique is called "dichotomy".}\\
 	List the positive and negative aspect of this technique.
 	
-	\paragraph{Method 3}
+	\paragraph{Method 3*}
 	For this second approach, we will suppose that $x^*$ is "close" to\footnote{or at least "not too far" from} $-0.5$.\\
 	Define $x_0=-0.5$, choose a 'learning rate' $\lambda=0.8$ (say) and iterate the following process:
 	\begin{itemize}
 		\item compute $f'(x_k)$
 		\item let $x_{k+1} = x_k - \lambda * f'(x_k)$
 	\end{itemize}
-	Manually do 5 steps of this process.
+	(*) Manually do 5 steps of this process.
 	Your final "guess" for $x^*$ is the last $x_k$ calculated.\\
 	Repeat the process with $\lambda=0.3$, $\lambda=0.1$, $\lambda=1$, $\lambda=2$. (calculators / computers are allowed!)\\
 	Give some conclusion on how to choose $\lambda$.\\
@@ -79,6 +79,9 @@
 	i.e. we want to find $(x^*,y^*) \in \R^2$ such that $f(x^*,y^*)$ is the smallest possible, mathematically:
 	$$\forall (x,y) \in \R^2, f(x,y) \geq f(x^*, y^*)$$
 	\textit{Again, it is possible to manually compute that the minimum is reached for $(x^*, y^*) = (0.5, 0.5)$; however, we suppose that we do not know this.}
+	
+
+	
 	
 	
 	
