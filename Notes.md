@@ -227,11 +227,12 @@ We will try to cover most of the prerequisites of the courses in the master's, i
 
 TODO:
 - Graph of usual functions
+- Derivatives
+- Usual functions (sin, cos, tan, exp, log)
+- Integration
 - Complex numbers
 - Vectors (concept, sum, scalar product)
 - Equations for lines (2D, 3D) and planes (3D)
-- Derivatives
-- Integration
 - Matrices (concept, sum, product)
 - Mutli-dimensional functions
 - Inversing matrices (+ row reduction; span)
