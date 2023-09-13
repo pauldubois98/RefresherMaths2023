@@ -60,7 +60,12 @@
 	List the positive and negative aspect of this technique.
 	
 	\paragraph{Method 3}
-	For this second approach, we will suppose that $x^*$ is "close" to\footnote{or at least "not too far" from} $-0.5$.
+	For this second approach, we will suppose that $x^*$ is "close" to\footnote{or at least "not too far" from} $-0.5$.\\
+	Define $x_0=-0.5$, choose a 'learning rate' $\lambda=0.8$ (say) and iterate the following process:
+	\begin{itemize}
+		\item compute $f'(x_k)$
+		\item let $x_{k+1} = x_k - \lambda * f'(x_k)$
+	\end{itemize}
 	
 	
 	
