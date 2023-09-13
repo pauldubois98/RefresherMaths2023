@@ -1,0 +1,1 @@
+pandoc -f gfm .\RefresherMaths2023\Notes.md -o .\RefresherMaths2023\Notes.tex
