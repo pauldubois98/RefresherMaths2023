@@ -222,7 +222,11 @@ We will try to cover most of the prerequisites of the courses in the master's, i
 ## Quadratic functions / equations
   - definition: $f(x) = ax^2+bx+c$ ($a$ is the quadratic coefficient, $b$ is the linear coefficient, $c$ is the constant)
   - example: $f(x) = x^2+3$ (plot it)
-  - 
+  - solving quadratic equations (do demo)
+  - 3 forms of quadratic functions:
+    - $f(x) = a(x-x_1)(x-x_2)$
+    - $f(x) = ax^2+bx+c$
+    - $f(x) = a(x-x_0)^2+y_0$
 
 
 TODO:
