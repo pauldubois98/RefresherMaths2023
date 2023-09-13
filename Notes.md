@@ -98,7 +98,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
 
 # Modular arithmetic
 
-- Euclidean division of $a$ by $b$ ($a=bk+R$ with $0 \leq r < b$)
+- Euclidean division of $a$ by $b$ ($a=bk+r$ with $0 \leq r < b$)
 - example with $a=35$, $b=2,3,4,5,6,7,8$
 - modular classes ($12 \equiv 7 \equiv 22 \equiv 102 \equiv -3 \equiv -103 \mod 5$ i.e. $\{2+5k \mid k \in \Z \}$)
 - live exercises:
@@ -108,7 +108,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - what does it mean for $n$ to say that $n \equiv 5 \mod 10$?
   - find the least positive value of $x$ such that $71 \equiv x \mod 8$
 - modular operations (+,-,\* $\mod n$)
-- GCD and $\square^{-1} \mod n$
+- GCD and $\square^{-1} \mod p$
 - example:
   - compute the GCD of $270$ and $192$ (answer: $6$)
   - compute $5^{-1} \mod 11$
