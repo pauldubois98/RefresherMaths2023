@@ -1,0 +1,701 @@
+
+\emph{Math Refresher 2023}
+
+This course teaches basic mathematical metho dologies for proofs. It is
+intended for students with a lack of mathematical background, or with a
+lack of confidence in mathematics. We will try to cover most of the
+prerequisites of the courses in the master\textquotesingle s, i.e. basic
+algebra/analysis and basic applications.
+
+\hypertarget{presentation}{%
+\section{Presentation}\label{presentation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Paul Dubois
+\item
+  3rd year PhD @ Centrale / TheraPanacea
+\item
+  Research topic: AI applied to radiotherapy
+\item
+  Email:
+  \href{mailto:b00795695@essec.edu}{\nolinkurl{b00795695@essec.edu}}
+  (for any question)
+\item
+  Course structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    8*3h arranged as 1h20min lecture - 1/3h break - 1h20min lecture
+  \item
+    No pb class planned, but lectures will have integrated live
+    exercises
+  \item
+    Interrupt if needed (do \emph{not} wait for the end of the lecture)
+  \end{itemize}
+\item
+  Examination
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The course is pass/fail
+  \item
+    Spoiler: All of you will pass
+  \item
+    Home exercises, you will need 80+\% to pass
+  \item
+    How long do you need to complete exercises (should take 30min to
+    1h)?
+  \item
+    How many exercises do you want? (2-4?)
+  \item
+    Hand in paper of PDF? (vote)
+  \item
+    In the unlikely event of not passing, you will be able to do some
+    extra work to pass
+  \end{itemize}
+\item
+  Course notes are still under construction (as I will adjust according
+  to the speed of the class); I will give it to you at the end of the
+  course.
+\item
+  Final questions before we start?
+\end{itemize}
+
+\hypertarget{assumed-to-be-known}{%
+\section{Assumed to be known}\label{assumed-to-be-known}}
+
+\begin{itemize}
+\tightlist
+\item
+  4 operations (+,-,*,/)
+\item
+  integer vs rational vs decimal
+\item
+  what is a prime number
+\item
+  basic (linear) equations solving
+\end{itemize}
+
+\hypertarget{sets}{%
+\section{Sets}\label{sets}}
+
+\begin{itemize}
+\tightlist
+\item
+  sets of numbers (\(\N\), \(\Z\), \(\R\), \(\Q\), \(\Primes\))
+\item
+  complex sets (with \(\{ \}\))
+\item
+  examples (draw them):
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(\{n \mid 4<n<10, n \in \N \}\)
+  \item
+    \(\{2n-1 \mid 4<n<10 , n \in \N \}\)
+  \item
+    \(\{x \mid 4<x<10, x \in \R \}\)
+  \item
+    \(\{x \mid 4<x^2<10 \}\)
+  \item
+    \(\{(x,y) \mid 0<x<2 , 1<y<3, x \in \R, y \in \R \}\)
+  \end{itemize}
+\item
+  live exercises: draw set + define set from drawing
+\item
+  intervals (\(\left[a,b\right]\) \& \(\left(a,b\right)\)); example:
+  \(\left[-2, 3\right)\)
+\item
+  sets unions \& intersections
+\item
+  examples:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(\left[0,1\right) \cup \left(2,3\right]\)
+  \item
+    \(\left(0,1\right) \cap \left[0.5,2\right]\)
+  \item
+    \(\left[-2,5\right) \cap \N\)
+  \item
+    \(\left[-2,5\right) \cap \Z\)
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    compute and plot the inersection and union of
+    \(A = \left(1, 5\right)\) and \(B = \left(3, 7\right]\).
+  \item
+    compute and plot the inersection and union of
+    \(C = \left(-\infty, 2\right]\) and
+    \(D = \left[0, +\infty \right)\).
+  \end{itemize}
+\item
+  quantifiers: \(\forall\), \(\exists\)
+\item
+  exmaple (simple):
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(S = \{1,3,5,7,8\}\): \(\forall s \in S, \st \leq 10\)
+  \item
+    \(S = \{1,3,5,7,8\}\): \(\exists s \in \S \st s \text{ is pair}\)
+  \end{itemize}
+\item
+  example (combined): "for any number, there is a (natural) number
+  greater" (\(\forall x \in \R, \exists n \in \N s.t. n>x\))
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(S = \{5,6,3,1\}\) "all elements of \(S\) are positive"
+  \item
+    \(S = \{5,6,3,1\}\) "there is an odd element in \(S\)"
+  \item
+    \(S = \{5,6,3,1\}\) "there is an even element in \(S\) that is not a
+    multiple of 4"
+  \end{itemize}
+\item
+  implications \(\implies\), \(\impliedby\), \(\iff\)
+\item
+  examples:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(x>1 \implies x \text{positive}\)
+  \item
+    \(k \in \Z \impliedby k \in \N\)
+  \item
+    \(k \in \Z  \txtand k\geq 0 \iff k \in \N\)
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    "if \(x\) is positive, then it is the square of another number"
+  \item
+    "\(n\) is pair is equivalent to \(n=2m\) for some integer \(m\)"
+  \end{itemize}
+\item
+  extreme values (\(\min\),\(\max\) vs \(\inf\),\(\sup\))
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    find the extreme values of the set \(A = \{x \in \R \mid x>0\}\).
+  \item
+    find the extreme values of the set
+    \(B = \{1-\frac{1}{n} \mid n\in \N\}\).
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{boolean-algebra}{%
+\section{Boolean Algebra}\label{boolean-algebra}}
+
+\begin{itemize}
+\tightlist
+\item
+  principle (only \(0\) and \(1\))
+\item
+  \(+\) and \(*\) for booleans: \(\lor\) and \(\land\)
+\item
+  \(not\) (\(\lnot\))
+\item
+  tables
+\item
+  De Morgan\textquotesingle s law
+  (\(\lnot (a \land b) = \lnot a \lor \lnot b\) and
+  \(\lnot (a \lor b) = \lnot a \land \lnot b\))
+\item
+  \(implications\) operators (\(\implies, \impliedby, \iff\));
+  \(\text{x}or\) operator (\(\lxor\))
+\item
+  live exercise:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    express \(\lxor\) in terms of \(\lor, \land, \lnot\)
+  \item
+    express \(\implies\) in terms of \(\lor, \land, \lnot\)
+  \item
+    express \(\land\) in terms of \(\lor, \lnot\)
+  \item
+    express \(\lor\) in terms of \(\land, \lnot\)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{modular-arithmetic}{%
+\section{Modular arithmetic}\label{modular-arithmetic}}
+
+\begin{itemize}
+\tightlist
+\item
+  Euclidean division of \(a\) by \(b\) (\(a=bk+r\) with
+  \(0 \leq r < b\))
+\item
+  example with \(a=35\), \(b=2,3,4,5,6,7,8\)
+\item
+  modular classes
+  (\(12 \equiv 7 \equiv 22 \equiv 102 \equiv -3 \equiv -103 \mod 5\)
+  i.e. \(\{2+5k \mid k \in \Z \}\))
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    give 3 numbers that are congruent to 3 mod 7
+  \item
+    give a test in terms of modular arithmetic that is equivalent to
+    "\(n\) is odd"
+  \item
+    give a test in terms of modular arithmetic that is equivalent to
+    "\(n\) is a nultiple of \(k\)" (for \(k\) a natural number greater
+    than two)
+  \item
+    what does it mean for \(n\) to say that \(n \equiv 5 \mod 10\)?
+  \item
+    find the least positive value of \(x\) such that
+    \(71 \equiv x \mod 8\)
+  \end{itemize}
+\item
+  modular operations (+,-,* \(\mod n\))
+\item
+  GCD and \(\square^{-1} \mod p\)
+\item
+  example:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    compute the GCD of \(270\) and \(192\) (answer: \(6\))
+  \item
+    compute \(5^{-1} \mod 11\)
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    find the least positive value of \(x\) such that
+    \(89 \equiv (x + 3) \mod 4\)
+  \item
+    what is \(x \mod 10\) if \(96 \equiv x / 7 \mod 5\)
+  \item
+    find an \(x\) such that \(5x \equiv 4 \mod 11\)
+  \item
+    if \(x\) is congruent to \(13 \mod 17\) then \(7x - 3\) is congruent
+    to which number \(\mod 17\)?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{functions}{%
+\section{Functions}\label{functions}}
+
+\begin{itemize}
+\tightlist
+\item
+  functions def
+\item
+  image vs pre-image
+\item
+  span vs kernel
+\item
+  examples:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(f: x \to 3x+1\)
+  \item
+    \(g: x \to x^2-1\)
+  \item
+    \(h: x \to 8\)
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    compute the image of \(2\) by \(f(x) = \frac{(x+1)^2 - x}{x-3}\)
+  \item
+    compute the preimage(s) of \(5\) by \(f(x) = 2x-3\)
+  \item
+    compute the kernel of \(f(x) = -3x+2\)
+  \item
+    compute the span of \(f(x) = 5-(2x)^4\)
+  \end{itemize}
+\item
+  typical plotting of functions: set of points \((x,y)\) s.t.
+  \(y = f(x)\)
+\end{itemize}
+
+\hypertarget{sequences}{%
+\section{Sequences}\label{sequences}}
+
+\begin{itemize}
+\tightlist
+\item
+  sequences def: general formula
+\item
+  example: \(u_n = n^3-5n^2\)
+\item
+  sequences def: recursive formula
+\item
+  example: \(u_0 = 5, u_{n+1} = u_n^2-u_n+2\)
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    consider the (arithmetic) sequence \(\{a_n\}\) defined by
+    \(a_{n+1}=a_n+2\) and \(a_0=-1\):
+
+    \begin{itemize}
+    \tightlist
+    \item
+      find the first five terms of the sequence
+    \item
+      find the common difference between consecutive terms
+    \item
+      find a formula for \(a_n\) (without using \(a_{n-1}\))
+    \end{itemize}
+  \item
+    consider the (geometric) sequence \(\{b_n\}\) defined by
+    \(b_n=3*2^n\)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      find the first five terms of the sequence
+    \item
+      find the common ratio between consecutive terms
+    \item
+      find a formula for \(b_{n+1}\) (using only \(b_n\), no \(n\))
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{essence-of-proofs}{%
+\section{Essence of proofs}\label{essence-of-proofs}}
+
+\begin{itemize}
+\tightlist
+\item
+  proof: assumption =\textgreater{} conclusion
+\item
+  direct with \(n \geq 0 \implies 2n \geq 4n\)
+\item
+  cases split with \(n \equiv n^2 \mod 2\)
+\item
+  contradiction with \(\sqrt{2} \not \in \Q\)
+\item
+  induction with \(u_0 = 2, u_{n+1} = \frac{u_n+1}{2} \implies u_n>1\)
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    prove that for all real numbers \(x\), if \(x\) is positive, then
+    \(x^3\) is also positive
+  \item
+    prove that the square root of 3 is irrational, i.e., it cannot be
+    expressed as a fraction of two integers.
+  \item
+    prove by mathematical induction that for all non-negative integers
+    \(n\), \(3^n - 1\) is divisible by \(2\).
+  \item
+    use mathematical induction to prove that for all positive integers
+    \(n\), the sum of the first \(n\) odd integers is given by the
+    formula: \(1 + 3 + 5 + ... + (2n - 1)\) is \(n^2\).
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{asymptotic-analysis}{%
+\section{Asymptotic analysis}\label{asymptotic-analysis}}
+
+\begin{itemize}
+\tightlist
+\item
+  definition (\(\varepsilon, \delta\))
+\item
+  examples / live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    prove that limit of \(u_n = \frac{n^2+1}{n^2}\) as \(n \to +\infty\)
+    is \(1\)
+  \item
+    prove that limit of \(f(x) = \frac{2x-1}{x}\) as \(x \to -\infty\)
+    is \(2\)
+  \item
+    prove that limit of \(u_n = \frac{1}{\sqrt{n}}\) as
+    \(n \to +\infty\) is \(0\)
+  \item
+    prove that \(u_n = 2n^3\) diverges to \(+\infty\) as
+    \(n \to +\infty\)
+  \item
+    prove that limit of \(f(x) = \frac{1}{x^2}\) as \(x \to 0\) is
+    \(+\infty\)
+  \item
+    prove that limit of \(f(x) = \frac{1}{x}\) as \(x \to 0^-\) is
+    \(-\infty\)
+  \end{itemize}
+\item
+  operations on limits (\(+\), \(-\), \(*\), and \(/\))
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    calculate
+    \(\lim_{n\to \infty} \left(2+\frac{-1}{2n}\right)\left(3-\frac{4}{-n^2}\right)+5\)
+  \item
+    calculate \(\lim_{n\to \infty} \frac{-2n+1}{8n}\)
+  \item
+    calculate \(\lim_{x\to \infty} \frac{3x^2 + 2x}{4x^2 - 1}\)
+  \item
+    determine the behaviour of \(u_n = (-2)^n\) as \(n \to +\infty\)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{large-operators}{%
+\section{Large operators}\label{large-operators}}
+
+\begin{itemize}
+\tightlist
+\item
+  \(\sum\), \(\prod\), \(\bigcup\), \(\bigcap\)
+\item
+  examples:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    "product of numbers from 10 to 20"
+  \item
+    "sum of squares up to 10"
+  \item
+    \(\bigcup_{x \in \{1,4,10.5, 21.75\}} \left[ x-0.5, x+0.5 \right]\)
+  \item
+    \(\bigcap_{n \in \N^*} \left[ -\frac{1}{n}, \frac{1}{n} \right]\)
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    what set does the last example corresponds to?
+  \item
+    define the factorial
+  \item
+    give an expression for the sum of inverses from \(1\) to \(1000\)
+  \item
+    give an expression for the product of all prime numbers smaller than
+    \(10000\)
+  \item
+    give an expression for the sum of factorials from \(100\) to \(200\)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{series}{%
+\section{Series}\label{series}}
+
+\begin{itemize}
+\tightlist
+\item
+  definition: sum of a sequence
+\item
+  partial sums: \(S_n = \sum_{k=0}^n u_k\)
+\item
+  examples:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(S_n = \sum_{k=0}^n k^2\)
+  \item
+    \(S_n = \sum_{k=0}^n \frac{1}{k!}\)
+  \item
+    \(S_n = \sum_{k=0}^n \frac{1}{2^k}\)
+  \end{itemize}
+\item
+  popular series:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    geometric series
+  \item
+    harmonic series
+  \item
+    alternating series
+  \end{itemize}
+\item
+  convergence: if the sequence of partial sums converges
+\item
+  convergence tests:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    comparison test
+  \item
+    integral test (see later)
+  \item
+    ratio test
+  \item
+    root test
+  \item
+    alternating series test
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    prove that the series \(\sum_{k \in \N} \frac{1}{k}-\frac{1}{k+1}\)
+    converges
+  \item
+    prove that the series \(\sum_{k \in \N} \frac{1}{k!}\) converges
+  \item
+    prove that the series \(\sum_{k \in \N} \frac{1}{2^k}\) converges
+  \item
+    prove that the series \(\sum_{k \in \N} \frac{1}{k}\) diverges
+  \item
+    prove that the series \(\sum_{k \in \N} \frac{1}{k^2}\) converges
+  \item
+    prove that the series \(\sum_{k \in \N} \frac{k^10}{2^k}\) converges
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{affine-functions}{%
+\section{Affine functions}\label{affine-functions}}
+
+\begin{itemize}
+\tightlist
+\item
+  definition: \(f(x) = ax+b\) (\(a\) is the slope, \(b\) is the
+  intercept)
+\item
+  examples:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(f(x) = 2x+1\)
+  \item
+    \(f(x) = -3x+2\)
+  \item
+    \(f(x) = 5\)
+  \end{itemize}
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    plot the function \(f(x) = 2x+1\)
+  \item
+    plot the function \(f(x) = -3x+2\)
+  \item
+    find the affine function that passes through the points \((1,2)\)
+    and \((3,4)\)
+  \end{itemize}
+\item
+  parallel (same slope) and orthogonal lines (negative reciprocal slope)
+\item
+  live exercises:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    find the equation of the line parallel to \(y=2x+1\) that passes
+    through \((5,3)\)
+  \item
+    find the equation of the line orthogonal to \(y=2x+1\) that passes
+    through \((8,7)\)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{quadratic-functions--equations}{%
+\section{Quadratic functions /
+equations}\label{quadratic-functions--equations}}
+
+\begin{itemize}
+\tightlist
+\item
+  definition: \(f(x) = ax^2+bx+c\) (\(a\) is the quadratic coefficient,
+  \(b\) is the linear coefficient, \(c\) is the constant)
+\item
+  example: \(f(x) = x^2+3\) (plot it)
+\item
+  solving quadratic equations (do demo)
+\item
+  3 forms of quadratic functions:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(f(x) = a(x-x_1)(x-x_2)\)
+  \item
+    \(f(x) = ax^2+bx+c\)
+  \item
+    \(f(x) = a(x-x_0)^2+y_0\)
+  \end{itemize}
+\end{itemize}
+
+TODO:
+
+\begin{itemize}
+\tightlist
+\item
+  Graph of usual functions
+\item
+  Derivatives
+\item
+  Usual functions (sin, cos, tan, exp, log)
+\item
+  Integration
+\item
+  Complex numbers
+\item
+  Vectors (concept, sum, scalar product)
+\item
+  Equations for lines (2D, 3D) and planes (3D)
+\item
+  Matrices (concept, sum, product)
+\item
+  Mutli-dimensional functions
+\item
+  Inversing matrices (+ row reduction; span)
+\item
+  Linear regression
+\item
+\end{itemize}
