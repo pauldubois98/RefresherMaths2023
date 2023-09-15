@@ -14,3 +14,5 @@ The exercises can be found here:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet1/ExercisesOptimization.pdf
 - Exercises Set 2 (Linear Algebra):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet2/ExercisesLinearAlgebra.pdf
+- Exercises Set 3 (Calculus):
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet3/ExercisesCalculus.pdf
