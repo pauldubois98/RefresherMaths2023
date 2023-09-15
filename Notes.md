@@ -62,7 +62,7 @@ We will try to cover most of the prerequisites of the courses in the master's, i
   - compute and plot the inersection and union of $C = \left(-\infty, 2\right]$ and $D = \left[0, +\infty \right)$.
 - quantifiers: $\forall$, $\exists$
 - exmaple (simple):
-  - $S = \{1,3,5,7,8\}$: $\forall s \in S, \st \leq 10$
+  - $S = \{1,3,5,7,8\}$: $\forall s \in S, s \leq 10$
   - $S = \{1,3,5,7,8\}$: $\exists s \in \S \st s \text{ is pair}$
 - example (combined): "for any number, there is a (natural) number greater" ($\forall x \in \R, \exists n \in \N s.t. n>x$)
 - live exercises:
