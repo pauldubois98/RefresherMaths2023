@@ -4,4 +4,7 @@
 Sources for the refresher maths course taught at the ESSEC buisness school september 2023.
 
 The content for the first two sessions can be found here:
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/FirstTwoSessions.pdf 
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/FirstTwoSessions.pdf
+
+After discussion with the students, the content had to evolve to better fit their needs.
+Hence, the last six sessions are exercise based.
