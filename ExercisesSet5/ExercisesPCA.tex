@@ -32,52 +32,18 @@
 	
 	\section{Change of Basis}
 
-	Let $B = \{ \mathbf{v}_1, \mathbf{v}_2, \mathbf{v}_3 \}$ be a basis for $\mathbb{R}^3$ and let $P$ be the matrix whose columns are the coordinates of $\mathbf{v}_1$, $\mathbf{v}_2$, and $\mathbf{v}_3$ with respect to the standard basis. That is,
+	Let $B = \{ \mathbf{e}_1, \mathbf{e}_2, \mathbf{e}_3 \}$ be the standard canonical basis for $\mathbb{R}^3$.
 
-	\[
-	P = \begin{bmatrix}
-		\mathbf{v}_1 & \mathbf{v}_2 & \mathbf{v}_3
-	\end{bmatrix}
-	\]
-
-	Suppose we have another basis $B' = \{ \mathbf{u}_1, \mathbf{u}_2, \mathbf{u}_3 \}$ for $\mathbb{R}^3$ and let $Q$ be the matrix whose columns are the coordinates of $\mathbf{u}_1$, $\mathbf{u}_2$, and $\mathbf{u}_3$ with respect to the standard basis. That is,
-
-	\[
+	Suppose we have another basis $B' = \{ \mathbf{u}_1, \mathbf{u}_2, \mathbf{u}_3 \}$ for $\mathbb{R}^3$ and let $Q$ be the matrix whose columns are the coordinates of $\mathbf{u}_1$, $\mathbf{u}_2$, and $\mathbf{u}_3$ with respect to the standard basis.
+	That is, $
 	Q = \begin{bmatrix}
 		\mathbf{u}_1 & \mathbf{u}_2 & \mathbf{u}_3
 	\end{bmatrix}
-	\]
+	$.
+	
 
-	We want to find the change of basis matrix $C$ that allows us to express the coordinates of vectors in $B$ in terms of the coordinates in $B'$. This can be done using the formula:
-
-	\[
-	C = Q^{-1}P
-	\]
-
-	To find $C$:
-
-	\begin{enumerate}
-		\item Find the inverse of matrix $Q$, denoted as $Q^{-1}$.
-		\item Multiply $Q^{-1}$ by $P$ to obtain the change of basis matrix $C$.
-	\end{enumerate}
-
-	Now, let's calculate $C$ and use it to express the vector $\mathbf{v}$ in terms of the basis $B'$, where $\mathbf{v}$ is a vector in $\mathbb{R}^3$ with coordinates $\begin{bmatrix} x \\ y \\ z \end{bmatrix}$ with respect to basis $B$.
-
-	\[
-	\mathbf{v} = \begin{bmatrix}
-		x \\
-		y \\
-		z
-	\end{bmatrix}
-	\]
-
-	To express $\mathbf{v}$ in terms of the basis $B'$, we can use the change of basis matrix $C$ as follows:
-
-	\[
-	\mathbf{v'} = C\mathbf{v}
-	\]
-
-	Find $\mathbf{v'}$.
+	Let $\mathbf{v} = \begin{pmatrix} -1 \\ 3 \\ 2 \end{pmatrix}$ (in the standard basis).
+	Express $\mathbf{v}$ in the basis $B'$.
 
 
 \end{document}
