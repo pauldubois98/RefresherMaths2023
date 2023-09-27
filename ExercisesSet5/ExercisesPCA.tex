@@ -86,29 +86,29 @@
 		\vspace{0.2cm}
 	\end{center}
 	
-	\subsection{Standardization}
+	\subsection{Standardization *}
 	Calculate $\hat{\mathcal{S}}$, the standardized version of $\mathcal{S}$ (shifted to mean $0$ and scaled to have a variance of $1$).
 	
-	\subsection{Covariance matrix}
+	\subsection{Covariance matrix *}
 	Compute the covariance of each pair of features.
 	Compute also the variance of each feature.
 	Arrange the values in a $3 \times 3$ matrix (variance is covariance of a feature with itself).
 	
-	\subsection{Eigenvalues of the covariance matrix}
+	\subsection{Eigenvalues of the covariance matrix *}
 	Calculate the eigenvalues of the covariance matrix.
 	Use the characteristic polynomial.
 	
 	The variance explained by each feature is $\frac{\lambda_i}{\lambda_1+\lambda_2+\lambda_3}$\footnote{Where $\lambda_i$ are the eigenvalues.}.
 	Order the features by decreasing importance.
 	
-	\subsection{Feature vectors (the "principal components")}
+	\subsection{Feature vectors (the "principal components") *}
 	For each eigenvalue, calculate the corresponding eigenvectors of the covariance matrix.
 	These are the principal components, also called "feature vectors".
 	
-	\subsection{Recasting data on principal components axes}
+	\subsection{Recasting data on principal components axes *}
 	Project each item of data on the first two components, and plot them in a 2D graph.
 	
 	\subsection{Importance of standardization}
 	Redo this exercise without standardizing your data to variance of one.
-
+	
 \end{document}
