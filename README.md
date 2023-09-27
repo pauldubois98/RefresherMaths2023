@@ -20,3 +20,5 @@ https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet3/Exerc
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet4/ExercisesPDE.pdf
 - Exercises Set 5 (Principal Component Analysis):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf
+Notebook:
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.ipynb
