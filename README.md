@@ -19,6 +19,6 @@ https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet3/Exerc
 - Exercises Set 4 (Partial Differential Equations):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet4/ExercisesPDE.pdf
 - Exercises Set 5 (Principal Component Analysis):
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf <br>
 Notebook:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.ipynb
