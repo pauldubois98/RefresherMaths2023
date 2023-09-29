@@ -22,3 +22,5 @@ https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet4/Exerc
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf <br>
 Notebook:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.ipynb
+Notebook solutions:
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA_solutions.ipynb
