@@ -65,7 +65,53 @@
 	
 	
 	\subsection{Practice}
+	The training dataset consists of the following data points:
 	
+	Positive class ("+1"):
+	\begin{itemize}
+		\item (2, 2)
+		\item (1, 1)
+	\end{itemize}
+	
+	Negative class ("-1"):
+	\begin{itemize}
+		\item (0, 1)
+		\item (1, 0)
+	\end{itemize}
+	
+	The SVM model's objective function for a linearly separable dataset is as follows:
+	
+	\[
+	\text{Minimize } \frac{1}{2}\|\mathbf{w}\|^2
+	\]
+	
+	Subject to the constraints:
+	
+	\[
+	y_i(\mathbf{w}\cdot\mathbf{x}_i + b) \geq 1 \text{ for all } i
+	\]
+	
+	Where:
+	\begin{align*}
+		y_i & \text{ is the class label } (+1 \text{ or } -1) \text{ of the } i\text{-th data point.} \\
+		\mathbf{w} & \text{ is the weight vector of the hyperplane.} \\
+		\mathbf{x}_i & \text{ is the } i\text{-th data point.} \\
+		b & \text{ is the bias term.}
+	\end{align*}
+	
+	Your tasks:
+	
+	1. Calculate the optimal values of \(\mathbf{w}\) and \(b\) to separate the data points while maximizing the margin.
+	
+	2. Determine the equation of the optimal hyperplane in the form \(\mathbf{w}\cdot\mathbf{x} + b = 0\).
+	
+	3. Identify the support vectors in the dataset.
+	
+	4. Calculate the margin, which is the perpendicular distance from the hyperplane to the nearest support vector.
+	
+	5. Classify a new data point, \((3, 2)\), based on the learned SVM model.
+	
+	Please provide the detailed steps and calculations for each task in your solution.
 	
 	
 \end{document}
