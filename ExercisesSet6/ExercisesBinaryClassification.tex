@@ -77,7 +77,6 @@
 	
 	
 	
-	
 	\section{Support Vector Machines}
 	\subsection{Theory}
 	Define a line in $\R^2$ with parameters $\mathbf{w}$ and $b$ defined by $\mathbf{w}.\mathbf{x} = b$ (or $\mathbf{w}.\mathbf{x} - b = 0$) for $\mathbf{x} \in \R^2$.
@@ -87,6 +86,8 @@
 		\item $\mathbf{x} \in \R^2$ such that $\mathbf{w}.\mathbf{x} - b > 0$
 	\end{itemize}
 	The goal is to find $\mathbf{w}$ and $b$ such that all points of the first class are in the first region, and all points of the second class are in the second region.
+	
+	Let our data be $\{ (\mathbf{x}_k, y_k) \}_{k=1}^N$ where $\mathbf{x}_k$ is the coordinate of the point in $\R^2$ and $y_k$ is the label ($+1$ or $-1$).
 	
 	
 	
@@ -133,6 +134,7 @@
 		\item Calculate the margin, which is the perpendicular distance from the hyperplane to the nearest support vector.
 		\item Classify a new data point, \((3, 2)\), based on the learned SVM model.
 	\end{enumerate}
+	
 	
 	
 	
