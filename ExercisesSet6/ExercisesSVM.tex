@@ -138,7 +138,37 @@
 	
 	
 	\section{Logistic Regression}
+	You are working on a binary classification problem where you are using logistic regression to predict whether a student will pass (1) or fail (0) an exam based on the number of hours they have studied. You have collected the data in the provided table.
 	
+	\begin{table}[h!]
+		\centering
+		\begin{tabular}{|c|c|}
+			\hline
+			Hours Studied ($X$) & Pass ($Y$) \\
+			\hline
+			3 & 0 \\
+			4 & 0 \\
+			5 & 1 \\
+			6 & 0 \\
+			7 & 1 \\
+			8 & 1 \\
+			9 & 1 \\
+			\hline
+		\end{tabular}
+	\end{table}
+	
+	You want to fit a logistic regression model to this data and find the best-fitting sigmoid function, which is represented as:
+	$$P(Y=1|X) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}$$
+	Where $P(Y=1|X)$ is the probability of passing the exam given the hours studied.
+	
+	\begin{enumerate}
+		\item Calculate the probabilities $P(Y=1|X)$ for each data point using the logistic regression model.
+		\item Calculate the log-odds for each data point, which is $\log\left(\frac{P(Y=1|X)}{1-P(Y=1|X)}\right)$.
+		\item Calculate the cost function (log loss) for the given data and the predicted probabilities. The log loss for a single data point is given as:
+		$$\text{Log Loss} = -\left(Y \cdot \log(P(Y=1|X)) + (1 - Y) \cdot \log(1 - P(Y=1|X))\right)$$
+		\item Calculate the total cost (log loss) for all data points.
+		\item Use gradient descent or any other optimization method to find the values of $\beta_0$ and $\beta_1$ that minimize the total cost.
+	\end{enumerate}
 	
 	
 \end{document}
