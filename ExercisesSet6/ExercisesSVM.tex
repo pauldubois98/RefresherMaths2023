@@ -37,19 +37,20 @@
 	\end{center}
 
 	\subsection{Unconstrained optimization}
-	Let $f(x,y) = 2x^2-3x + 4y^2 + 4y +20$.\\
+	Let $f(x,y) = 2x^2-12x + 4y^2 + 8y + 20$.\\
 	Find $(x^*,y^*) \in \R^2$ such that $f$ reaches its minimum (i.e. $f(x^*,y^*) \leq f(x,y) \quad \forall (x,y) \in \R^2$).
 	
-	\subsection{Constrained optimization}
-	Let $f(x,y) = 2x^2-3x + 4y^2 + 4y +20$.\\
+	\subsection{(Equality) Constrained optimization}
+	Let $f(x,y) = 2x^2-12x + 4y^2 + 8y + 20$.\\
 	Suppose further that we want $3x + 5y = 2$.\\
 	Find $(x^*,y^*) \in \R^2$ such that $3x^* + 5y^* = 2$ and $f$ reaches its minimum (i.e. $f(x^*,y^*) \leq f(x,y) \quad \forall (x,y) \in \R^2,\ 3x + 5y = 2$).
 	
 	\subsection{Lagrange multiplier}
-	Let $f(x,y) = 2x^2-3x + 4y^2 + 4y +20$.\\
+	Let $f(x,y) = 2x^2-12x + 4y^2 + 8y + 20$.\\
 	Suppose further that we want $3x + 5y = 2$.\\
 	Let $\mathcal{L}(x,y,\lambda) = f(x,y) - \lambda (3x + 5y -2)$.\\
 	Find the point where $\nabla f = 0$
+	
 	
 	\section{Support Vector Machines}
 	\subsection{Theory}
@@ -100,6 +101,10 @@
 	\end{align*}
 	
 	Your tasks:
+	\begin{enumerate}
+		\item Calculate the optimal values of \(\mathbf{w}\) and \(b\) to separate the data points while maximizing the margin.
+		
+	\end{enumerate}
 	
 	1. Calculate the optimal values of \(\mathbf{w}\) and \(b\) to separate the data points while maximizing the margin.
 	
