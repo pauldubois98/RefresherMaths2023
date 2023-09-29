@@ -162,12 +162,12 @@
 	Where $P(Y=1|X)$ is the probability of passing the exam given the hours studied.
 	
 	\begin{enumerate}
-		\item Calculate the probabilities $P(Y=1|X)$ for each data point using the logistic regression model.
-		\item Calculate the log-odds for each data point, which is $\log\left(\frac{P(Y=1|X)}{1-P(Y=1|X)}\right)$.
+		%\item Calculate the log-odds for each data point, which is $\log\left(\frac{P(Y=1|X)}{1-P(Y=1|X)}\right)$.
 		\item Calculate the cost function (log loss) for the given data and the predicted probabilities. The log loss for a single data point is given as:
 		$$\text{Log Loss} = -\left(Y \cdot \log(P(Y=1|X)) + (1 - Y) \cdot \log(1 - P(Y=1|X))\right)$$
-		\item Calculate the total cost (log loss) for all data points.
-		\item Use gradient descent or any other optimization method to find the values of $\beta_0$ and $\beta_1$ that minimize the total cost.
+		\item Calculate the total cost (log loss) summing for all data points.
+		\item Use gradient descent or any other optimization method to find the values of $\beta_0$ and $\beta_1$ that minimize the total cost; you may use a computer to perform gradient descent.
+		\item Calculate the probability $P(Y=1|X=10)$ using the logistic regression model.
 	\end{enumerate}
 	
 	
