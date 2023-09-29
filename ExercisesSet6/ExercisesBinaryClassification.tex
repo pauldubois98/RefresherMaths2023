@@ -82,8 +82,8 @@
 	Define a line in $\R^2$ with parameters $\mathbf{w}$ and $b$ defined by $\mathbf{w}.\mathbf{x} = b$ (or $\mathbf{w}.\mathbf{x} - b = 0$) for $\mathbf{x} \in \R^2$.
 	This line cut the plane in 2 regions:
 	\begin{itemize}
-		\item $\mathbf{x} \in \R^2$ such that $\mathbf{w}.\mathbf{x} - b < 0$
-		\item $\mathbf{x} \in \R^2$ such that $\mathbf{w}.\mathbf{x} - b > 0$
+		\item $\mathcal{R}_{-1}$: $\mathbf{x} \in \R^2$ such that $\mathbf{w}.\mathbf{x} - b < 0$
+		\item $\mathcal{R}_{+1}$: $\mathbf{x} \in \R^2$ such that $\mathbf{w}.\mathbf{x} - b > 0$
 	\end{itemize}
 	The goal is to find $\mathbf{w}$ and $b$ such that all points of the first class are in the first region, and all points of the second class are in the second region.
 	
@@ -92,6 +92,12 @@
 	The best line is not only separating the data in two sets, but also maximizing the distance between the line and the points.
 	
 	Calculate the distance between the line and a point $\mathbf{x}$.
+	
+	\vspace{0.5cm}
+	
+	Let $h(x) = \mathbf{w}^T\cdot\mathbf{x} - b$.
+	We will predict first class $-1$ if $h(x)<0$ (as this means $x \in \mathcal{R}_{-1}$); and second class $+1$ if $h(x)>0$ (as this means $x \in \mathcal{R}_{+1}$).
+	
 	
 	
 	
