@@ -97,6 +97,12 @@
 	
 	Let $h(x) = \mathbf{w}^T\cdot\mathbf{x} - b$.
 	We will predict first class $-1$ if $h(x)<0$ (as this means $x \in \mathcal{R}_{-1}$); and second class $+1$ if $h(x)>0$ (as this means $x \in \mathcal{R}_{+1}$).
+	To have each item of data classified correctly, we need:
+	\begin{itemize}
+		\item if $y_k = +1$ then $h(\mathbf{x}_k)>0$
+		\item if $y_k = -1$ then $h(\mathbf{x}_k)<0$
+	\end{itemize}
+	Hence, we need $y_k \cdot h(\mathbf{x}_k) > 0 \ \forall k$.
 	
 	
 	
