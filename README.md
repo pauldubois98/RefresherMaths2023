@@ -12,6 +12,8 @@ Hence, the last six sessions are exercise based.
 The exercises can be found here:
 - Exercises Set 1 (Optimization):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet1/ExercisesOptimization.pdf
+Solutions:
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercicesSet1-solutions.pdf
 - Exercises Set 2 (Linear Algebra):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet2/ExercisesLinearAlgebra.pdf
 - Exercises Set 3 (Calculus):
