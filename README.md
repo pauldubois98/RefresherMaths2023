@@ -21,7 +21,7 @@ https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet4/Exerc
 - Exercises Set 5 (Principal Component Analysis):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf <br>
 Notebook:
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.ipynb
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.ipynb <br>
 Notebook solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA_solutions.ipynb
 - Exercises Set 6 (Binary Classification):
