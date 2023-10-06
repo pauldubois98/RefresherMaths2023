@@ -16,6 +16,8 @@ Solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercicesSet1-solutions.pdf
 - Exercises Set 2 (Linear Algebra):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet2/ExercisesLinearAlgebra.pdf
+Solutions:
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercicesSet2-solutions.pdf
 - Exercises Set 3 (Calculus):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet3/ExercisesCalculus.pdf
 - Exercises Set 4 (Partial Differential Equations):
