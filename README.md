@@ -19,7 +19,7 @@ https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet2/Exerc
 Solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercicesSet2-solutions.pdf
 - Exercises Set 3 (Calculus):
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet3/ExercisesCalculus.pdf
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet3/ExercisesCalculus.pdf <br>
 Solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet3-solutions.pdf
 - Exercises Set 4 (Partial Differential Equations):
