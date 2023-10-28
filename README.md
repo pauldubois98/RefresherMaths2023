@@ -27,7 +27,7 @@ https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet4/Exerc
 Solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet4-solutions.pdf
 - Exercises Set 5 (Principal Component Analysis):
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf 
+https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf <br>
 Solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet5-solutions.pdf<br>
 Notebook:
