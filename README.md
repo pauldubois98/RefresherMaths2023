@@ -36,6 +36,6 @@ Notebook solutions:
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA_solutions.ipynb
 - Exercises Set 6 (Binary Classification):
 https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet6/ExercisesBinaryClassification.pdf
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet6-solutions.pdf
+Solutions: https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet6-solutions.pdf
 
 ![Cartoon image of the calss on our last session](Pictures/cartoon_class_qui.jpg)
