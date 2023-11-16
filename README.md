@@ -18,8 +18,6 @@ The exercises can be found here:
 - (Partial Differential Equations) [Exercises Set 4](https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet4/ExercisesPDE.pdf) ; [Solutions Set 4](https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet4-solutions.pdf)
 - (Principal Component Analysis) [Exercises Set 5](https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.pdf) ; [Solutions Set 5](https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet5-solutions.pdf) <br>
 [Notebook Exercises](https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA.ipynb) ; [Notebook Solutions](https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet5/ExercisesPCA_solutions.ipynb)
-- Exercises Set 6 (Binary Classification):
-https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet6/ExercisesBinaryClassification.pdf <br>
-Solutions: https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet6-solutions.pdf
+- (Binary Classification) [Exercises Set 6](https://github.com/pauldubois98/RefresherMaths2023/blob/main/ExercisesSet6/ExercisesBinaryClassification.pdf) ; [Solutions Set 6](https://github.com/pauldubois98/RefresherMaths2023/blob/main/Solutions/ExercisesSet6-solutions.pdf)
 
 ![Cartoon image of the calss on our last session](Pictures/cartoon_class_qui.jpg)
